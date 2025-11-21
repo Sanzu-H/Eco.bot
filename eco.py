@@ -1,7 +1,7 @@
 import telebot
 import random
 
-bot = telebot.TeleBot("7721106742:AAFwuCGI_XVnn-C5zfDl-w9SjpznytbhuwM")
+bot = telebot.TeleBot("")
 
 fact = [
     "Одна пластиковая бутылка разлагается 450–500 лет.",
